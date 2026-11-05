@@ -12,7 +12,7 @@ It is a front-end-only Angular application with no backend or database server: d
 - **Incidents** – Kanban board with drag & drop, list view, create/edit forms, notes, assignment, delete; saved in `localStorage`
 - **Reports** – summary statistics, CSV export (threats, incidents, IOCs), print / save as PDF
 - **User Management** (admin only) – view users and change roles
-- Dark / light theme, responsive layout, toast notifications, loading and empty states.
+- Dark / light theme, responsive layout, toast notifications, loading and empty states
 
 ## Tech Stack
 Angular 22 (standalone components, signals, lazy-loaded routes, reactive forms) · TypeScript · HTML5 · SCSS · RxJS · Chart.js · Vitest (unit tests)
